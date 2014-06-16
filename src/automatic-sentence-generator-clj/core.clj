@@ -1,4 +1,4 @@
-(ns twitterbot-clj.core
+(ns automatic-sentence-generator-clj
   (:import [org.atilika.kuromoji Token Tokenizer])
   (:use [clojure.string :only (split)]))
 
