@@ -1,4 +1,4 @@
-# twitterbot-clj
+# automatic-sentence-generator-clj
 
 A Clojure library designed to ... well, that part is up to you.
 
